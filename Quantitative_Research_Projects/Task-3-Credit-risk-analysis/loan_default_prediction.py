@@ -6,7 +6,7 @@ from xgboost import XGBClassifier
 from sklearn.metrics import roc_auc_score, accuracy_score
 
 # Load the data
-data = pd.read_csv('Task_3_and_4_Loan_Data.csv')
+data = pd.read_csv('Task 3 and 4_Loan_Data.csv')
 
 # Separate features and target variable
 X = data.drop(columns=['default', 'customer_id'])
