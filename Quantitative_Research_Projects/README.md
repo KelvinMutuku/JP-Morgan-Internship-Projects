@@ -1,0 +1,1 @@
+This repo shows the tasks done on the JP Morgan Quantitative research project
